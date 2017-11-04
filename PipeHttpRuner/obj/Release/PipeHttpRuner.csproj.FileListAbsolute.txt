@@ -1,0 +1,14 @@
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\PipeHttpRuner.exe
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\PipeHttpRuner.pdb
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\MyCommonHelper.dll
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\MyControl.dll
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\MyPipeHttpHelper.dll
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\MyControl.pdb
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\MyPipeHttpHelper.pdb
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\bin\Release\MyCommonHelper.pdb
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\obj\Release\PipeHttpRuner.csprojResolveAssemblyReference.cache
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\obj\Release\PipeHttpRuner.PipeHttpRuner.resources
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\obj\Release\PipeHttpRuner.Properties.Resources.resources
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\obj\Release\PipeHttpRuner.csproj.GenerateResource.Cache
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\obj\Release\PipeHttpRuner.exe
+D:\my\GitHub\AutoTest\AutoTest\IndependentTool\PipeHttpRuner\obj\Release\PipeHttpRuner.pdb

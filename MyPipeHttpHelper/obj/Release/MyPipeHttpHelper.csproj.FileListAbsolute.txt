@@ -1,0 +1,5 @@
+D:\my\GitHub\AutoTest\AutoTest\MyPipeHttpHelper\bin\Release\MyPipeHttpHelper.dll
+D:\my\GitHub\AutoTest\AutoTest\MyPipeHttpHelper\bin\Release\MyPipeHttpHelper.pdb
+D:\my\GitHub\AutoTest\AutoTest\MyPipeHttpHelper\obj\Release\MyPipeHttpHelper.csprojResolveAssemblyReference.cache
+D:\my\GitHub\AutoTest\AutoTest\MyPipeHttpHelper\obj\Release\MyPipeHttpHelper.dll
+D:\my\GitHub\AutoTest\AutoTest\MyPipeHttpHelper\obj\Release\MyPipeHttpHelper.pdb
