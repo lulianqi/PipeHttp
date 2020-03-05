@@ -165,7 +165,10 @@ namespace PipeHttpRuner
         private void PipeHttpRuner_Load(object sender, EventArgs e)
         {
             pipeList = new List<PipeHttp>();
-
+            if(!Directory.GetParent(responseFilePath).Exists)
+            {
+                Directory.CreateDirectory(Directory.GetParent(responseFilePath).FullName);
+            }
             return;
             PipeHttp.GlobalRawRequest.ConnectHost = "www.baidu.com";
             PipeHttp.GlobalRawRequest.StartLine = "GET http://www.baidu.com/ HTTP/1.1";
